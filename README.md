@@ -20,3 +20,5 @@ Nawaf Alrubayyi Fresh graduate SWE from KSU.
 ### My Goal
 I did this project because I want to apply my knowledge.
 
+### My field
+i am focusing to maximize my knoledge in data science field.
