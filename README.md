@@ -17,3 +17,6 @@ washington.csv
 ### About me
 Nawaf Alrubayyi Fresh graduate SWE from KSU.
 
+### My Goal
+I did this project because I want to apply my knowledge.
+
