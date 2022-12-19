@@ -179,6 +179,8 @@ def display_data(df):
         start_loc += 5
         view_data = input("Do you wish to continue?: ").lower()
 
+def print_author():
+    print("Author: Nawaf Alrubayyi")
 
 def main():
     while True:
