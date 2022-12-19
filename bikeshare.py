@@ -178,10 +178,9 @@ def display_data(df):
         print(df.iloc[start_loc:start_loc+5])
         start_loc += 5
         view_data = input("Do you wish to continue?: ").lower()
-        
-    print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
 
+def print_author():
+    print("Author: Nawaf Alrubayyi")
 
 def main():
     while True:
